@@ -1,2 +1,2 @@
 # unidevcon
-Unviversal Device Configurator via Eth, Modbus
+Universal Device Configurator via Eth, Modbus

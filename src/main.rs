@@ -1,3 +1,7 @@
+//use serialport::SerialPort;
+//use std::time::Duration;
+mod serial_port;
+
 fn main() {
-    println!("Hello, world!");
+    serial_port::get_list();
 }
